@@ -1,7 +1,7 @@
 package cn.itcast;
 
 public class GitDemo {
-    public void gitXXX(){
+    public static void main(String[] args) {
         System.out.println("git项目一");
     }
 }
